@@ -1,8 +1,7 @@
-
 #ToDo App
 Welcome to the ToDo App repository! This simple web application helps you manage your tasks efficiently. You can add, edit, delete tasks, set priorities, and track due dates.
 
-##Table of Contents
+#Table of Contents
 ##Demo
 ##Features
 ##Installation
